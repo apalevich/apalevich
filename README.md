@@ -1,6 +1,8 @@
 # Hello, my name is Artem 👋 
 
-### I'm a Frontend Developer skilled in UI/UX
+## I'm a Frontend Developer skilled in UI/UX
+---
+Started doing IT in my school years as a hobby, I found my passion in launching new applications, services and digital products in mixed teams.
 
 - 🎭 Previously worked as a Marketing and Event Manager in Music Industry
 - 📚 Mostly self-taught course lover
@@ -9,34 +11,67 @@
 - 🗺 Failed to move from Russia and living as a digital nomad since beginning of 2021
 - 🗂 Has natural love of structuring, especially lists
 
-Started doing IT in my school years as a hobby, I found my passion in launching new applications, services and digital products in mixed teams.
+## Languages and Projects:
+---
+<table width="100%" >
+<tr>
+  <td style="vertical-align:top;padding-top:30px">
+    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:12px;" />
+    <h3>React</h3>
+    <br>
+    <ul>Rose LifeTracker [link](https://github.com/apalevich/Rose_Lifetracker)</ul>
+    <ul>Star Wars db [link](https://github.com/apalevich/star-db)</ul>
+    <ul>ToDo app [link](https://github.com/apalevich/TodoApp)</ul>
+    <ul><i>+ 3 commercial app in customer's repository</i></ul>
+  </td>
+  <td style="vertical-align:top;padding-top:30px">
+    <img align="left" alt="TypeScript" width="26px" src="./img/typescript-plain.svg" style="padding-right:12px;" />
+    <h3>TypeScript</h3>
+    <br>
+    <ul>Arkanoid [link](https://github.com/apalevich/arkanoid-ts)</ul>
+    <ul><i>+ 1 commercial app in customer's repository</i></ul>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align:top;padding-top:30px">
+    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:12px;" />
+    <h3>JavaScript</h3>
+    <br>
+    <ul>Phonebook SPA [link](https://github.com/apalevich/phone_book)</ul>
+    <ul>Canval control [link](https://github.com/apalevich/Canvas-Control)</ul>
+    <ul>Music Player [link](https://github.com/apalevich/vanilla-music-player)</ul>
+    <ul><i>+ 1 commercial app in customer's repository</i></ul>
+  </td>
+  <td style="vertical-align:top;padding-top:30px">
+    <img align="left" alt="JavaScript" width="26px" src="./img/jquery-plain.svg"  style="padding-right:12px;" />
+    <h3>jQuery</h3>
+    <br>
+    <ul>Tilda customization [link](https://github.com/apalevich/tilda_customization)</ul>
+    <ul><i>+ 3 commercial app in customer's repository</i></ul>
+  </td>
+</tr>
+<tr>
+  <td style="vertical-align:top;padding-top:30px">
+    <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+    <h3>UI development</h3>
+    <br>
+    <ul>Login Forms [link](https://github.com/apalevich/Kun)</ul>
+    <ul>Hire landing page [link](https://github.com/apalevich/hr_landing)</ul>
+    <ul><i>...and 10+ commercial ones in customer's repository</i></ul>
+  </td>
+</tr>
+</table>
 
-### Connect with me:
 
-I love working with smart, ambitious and kind people. If that sounds like you and you have a project that I can help you with, let's chat!
 
-[![website](./img/globe-light.svg)](https://apalevich.ru#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://apalevich.ru#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/apalevich#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/apalevich#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/apalevich#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/apalevich#gh-dark-mode-only)
-&nbsp;&nbsp;
 
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
+[][jsplaylist]
+
 [<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
+
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
@@ -47,7 +82,23 @@ I love working with smart, ambitious and kind people. If that sounds like you an
 
 <br />
 <br />
+<br>
+## Connect with me:
+---
 
+I love working with smart, ambitious and kind people. If that sounds like you and you have a project that I can help you with, let's chat!
+<br>
+
+[![website](./img/globe-light.svg)](https://apalevich.ru#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://apalevich.ru#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/apalevich#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/apalevich#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/apalevich#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/apalevich#gh-dark-mode-only)
+&nbsp;&nbsp;
+<br>
 ---
 
 ### 📺 Latest YouTube Videos
