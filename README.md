@@ -61,12 +61,11 @@ UI development
 <ul><a href="https://github.com/apalevich/hr_landing" target="_blank">Hire landing page</a></ul>
 <ul><i>...and 10+ commercial ones in customer's repository</i></ul>
 </details>
-<br>
 
 ## Connect with me:
 
-I love working with smart, ambitious and kind people. If that sounds like you and you have a project that I can help you with, let's chat!
-<br>
+I love working with smart, ambitious and kind people.
+If that sounds like you and you have a project that I can help you with, let's chat!
 <br>
 
 [![website](./img/globe-light.svg)](https://apalevich.ru#gh-light-mode-only)
