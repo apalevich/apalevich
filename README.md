@@ -1,7 +1,6 @@
 # Hello, my name is Artem 👋 
 
 ## I'm a Frontend Developer skilled in UI/UX
----
 Started doing IT in my school years as a hobby, I found my passion in launching new applications, services and digital products in mixed teams.
 
 - 🎭 Previously worked as a Marketing and Event Manager in Music Industry
@@ -12,23 +11,22 @@ Started doing IT in my school years as a hobby, I found my passion in launching 
 - 🗂 Has natural love of structuring, especially lists
 
 ## Languages and Projects:
----
 <table width="100%" >
 <tr>
   <td style="vertical-align:top;padding-top:30px">
     <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:12px;" />
     <h3>React</h3>
     <br>
-    <ul>Rose LifeTracker [link](https://github.com/apalevich/Rose_Lifetracker)</ul>
-    <ul>Star Wars db [link](https://github.com/apalevich/star-db)</ul>
-    <ul>ToDo app [link](https://github.com/apalevich/TodoApp)</ul>
+    <ul><a href="https://github.com/apalevich/Rose_Lifetracker" target="_blank">Rose LifeTracker</a></ul>
+    <ul><a href="https://github.com/apalevich/star-db" target="_blank">Star Wars db</a></ul>
+    <ul><a href="https://github.com/apalevich/TodoApp" target="_blank">ToDo app</a></ul>
     <ul><i>+ 3 commercial app in customer's repository</i></ul>
   </td>
   <td style="vertical-align:top;padding-top:30px">
     <img align="left" alt="TypeScript" width="26px" src="./img/typescript-plain.svg" style="padding-right:12px;" />
     <h3>TypeScript</h3>
     <br>
-    <ul>Arkanoid [link](https://github.com/apalevich/arkanoid-ts)</ul>
+    <ul><a href="" target="_blank">Arkanoid [link](https://github.com/apalevich/arkanoid-ts)</ul>
     <ul><i>+ 1 commercial app in customer's repository</i></ul>
   </td>
 </tr>
@@ -37,16 +35,16 @@ Started doing IT in my school years as a hobby, I found my passion in launching 
     <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:12px;" />
     <h3>JavaScript</h3>
     <br>
-    <ul>Phonebook SPA [link](https://github.com/apalevich/phone_book)</ul>
-    <ul>Canval control [link](https://github.com/apalevich/Canvas-Control)</ul>
-    <ul>Music Player [link](https://github.com/apalevich/vanilla-music-player)</ul>
+    <ul><a href="https://github.com/apalevich/phone_book" target="_blank">Phonebook SPA</a></ul>
+    <ul><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canval control</a></ul>
+    <ul><a href="https://github.com/apalevich/vanilla-music-player" target="_blank">Music Player</a></ul>
     <ul><i>+ 1 commercial app in customer's repository</i></ul>
   </td>
   <td style="vertical-align:top;padding-top:30px">
     <img align="left" alt="JavaScript" width="26px" src="./img/jquery-plain.svg"  style="padding-right:12px;" />
     <h3>jQuery</h3>
     <br>
-    <ul>Tilda customization [link](https://github.com/apalevich/tilda_customization)</ul>
+    <ul><a href="https://github.com/apalevich/tilda_customization" target="_blank">Tilda customization</a></ul>
     <ul><i>+ 3 commercial app in customer's repository</i></ul>
   </td>
 </tr>
@@ -55,8 +53,8 @@ Started doing IT in my school years as a hobby, I found my passion in launching 
     <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
     <h3>UI development</h3>
     <br>
-    <ul>Login Forms [link](https://github.com/apalevich/Kun)</ul>
-    <ul>Hire landing page [link](https://github.com/apalevich/hr_landing)</ul>
+    <ul><a href="https://github.com/apalevich/Kun" target="_blank">Login Forms</a></ul>
+    <ul><a href="https://github.com/apalevich/hr_landing" target="_blank">Hire landing page</a></ul>
     <ul><i>...and 10+ commercial ones in customer's repository</i></ul>
   </td>
 </tr>
