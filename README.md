@@ -1,7 +1,7 @@
 # Hello, my name is Artem 👋 
 
 ## I'm a Frontend Developer skilled in UI/UX
-Started doing IT in my school years as a hobby, I found my passion in launching new applications, services and digital products in mixed teams.
+Started doing IT in my school years as a hobby, I found my passion in launching new applications, services and digital products in mixed teams 💻
 <!-- - 🎭 Previously worked as a Marketing and Event Manager in Music Industry
 - 📚 Mostly self-taught course lover
 - 🧠 Originally studied Psychology and Teaching
@@ -12,14 +12,18 @@ Started doing IT in my school years as a hobby, I found my passion in launching 
 ## Languages and Projects:
 
 <details>
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:12px;" />
+
 <summary>
 React.js
+    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:12px;display:inline-block" />
 </summary>
-    <ul><a href="https://github.com/apalevich/Rose_Lifetracker" target="_blank">Rose LifeTracker</a></ul>
-    <ul><a href="https://github.com/apalevich/star-db" target="_blank">Star Wars db</a></ul>
-    <ul><a href="https://github.com/apalevich/TodoApp" target="_blank">ToDo app</a></ul>
-    <ul><i>+ 3 commercial app in customer's repository</i></ul>
+<br>
+<ul>
+    <li><a href="https://github.com/apalevich/Rose_Lifetracker" target="_blank">Rose LifeTracker</a></li>
+    <li><a href="https://github.com/apalevich/star-db" target="_blank">Star Wars db</a></li>
+    <li><a href="https://github.com/apalevich/TodoApp" target="_blank">ToDo app</a></li>
+    <li><i>+ 3 commercial app in customer's repository</i></li>
+</ul>
 </details>
 
 <details>
@@ -27,6 +31,7 @@ React.js
 <summary>
 TypeScript
 </summary>
+<br>
 <ul><a href="https://github.com/apalevich/arkanoid-ts" target="_blank">Arkanoid</a></ul>
 <ul><i>+ 1 commercial app in customer's repository</i></ul>
 </details>
@@ -36,6 +41,7 @@ TypeScript
 <summary>
 JavaScript
 </summary>
+<br>
 <ul><a href="https://github.com/apalevich/phone_book" target="_blank">Phonebook SPA</a></ul>
 <ul><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canval control</a></ul>
 <ul><a href="https://github.com/apalevich/vanilla-music-player" target="_blank">Music Player</a></ul>
@@ -47,7 +53,8 @@ JavaScript
 <summary>
 jQuery
 </summary>
-<ul><a href="https://github.com/apalevich/tilda_customization" target="_blank">Tilda customization</a></ul>
+<br>
+    <ul><a href="https://github.com/apalevich/tilda_customization" target="_blank">Tilda customization</a></ul>
 <ul><i>+ 3 commercial app in customer's repository</i></ul>
 </details>
 
