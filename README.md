@@ -26,7 +26,7 @@ Started doing IT in my school years as a hobby, I found my passion in launching 
     <img align="left" alt="TypeScript" width="26px" src="./img/typescript-plain.svg" style="padding-right:12px;" />
     <h3>TypeScript</h3>
     <br>
-    <ul><a href="" target="_blank">Arkanoid [link](https://github.com/apalevich/arkanoid-ts)</ul>
+    <ul><a href="https://github.com/apalevich/arkanoid-ts" target="_blank">Arkanoid</a></ul>
     <ul><i>+ 1 commercial app in customer's repository</i></ul>
   </td>
 </tr>
