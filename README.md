@@ -11,57 +11,56 @@ Started doing IT in my school years as a hobby, I found my passion in launching 
 - 🗂 Has natural love of structuring, especially lists
 
 ## Languages and Projects:
-<table width="100%" >
-<tr>
-  <td style="vertical-align:top;padding-top:30px">
-    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:12px;" />
-    <h3>React</h3>
-    <br>
+
+<details>
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:12px;" />
+<summary>
+React.js
+</summary>
     <ul><a href="https://github.com/apalevich/Rose_Lifetracker" target="_blank">Rose LifeTracker</a></ul>
     <ul><a href="https://github.com/apalevich/star-db" target="_blank">Star Wars db</a></ul>
     <ul><a href="https://github.com/apalevich/TodoApp" target="_blank">ToDo app</a></ul>
     <ul><i>+ 3 commercial app in customer's repository</i></ul>
-  </td>
-  <td style="vertical-align:top;padding-top:30px">
-    <img align="left" alt="TypeScript" width="26px" src="./img/typescript-plain.svg" style="padding-right:12px;" />
-    <h3>TypeScript</h3>
-    <br>
-    <ul><a href="https://github.com/apalevich/arkanoid-ts" target="_blank">Arkanoid</a></ul>
-    <ul><i>+ 1 commercial app in customer's repository</i></ul>
-  </td>
-</tr>
-<tr>
-  <td style="vertical-align:top;padding-top:30px">
-    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:12px;" />
-    <h3>JavaScript</h3>
-    <br>
-    <ul><a href="https://github.com/apalevich/phone_book" target="_blank">Phonebook SPA</a></ul>
-    <ul><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canval control</a></ul>
-    <ul><a href="https://github.com/apalevich/vanilla-music-player" target="_blank">Music Player</a></ul>
-    <ul><i>+ 1 commercial app in customer's repository</i></ul>
-  </td>
-  <td style="vertical-align:top;padding-top:30px">
-    <img align="left" alt="JavaScript" width="26px" src="./img/jquery-plain.svg"  style="padding-right:12px;" />
-    <h3>jQuery</h3>
-    <br>
-    <ul><a href="https://github.com/apalevich/tilda_customization" target="_blank">Tilda customization</a></ul>
-    <ul><i>+ 3 commercial app in customer's repository</i></ul>
-  </td>
-</tr>
-<tr>
-  <td style="vertical-align:top;padding-top:30px">
-    <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-    <h3>UI development</h3>
-    <br>
-    <ul><a href="https://github.com/apalevich/Kun" target="_blank">Login Forms</a></ul>
+</details>
+
+<details>
+<img align="left" alt="TypeScript" width="26px" src="./img/typescript-original.svg" style="padding-right:12px;" />
+<summary>
+TypeScript
+</summary>
+<ul><a href="https://github.com/apalevich/arkanoid-ts" target="_blank">Arkanoid</a></ul>
+<ul><i>+ 1 commercial app in customer's repository</i></ul>
+</details>
+
+<details>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:12px;" />
+<summary>
+JavaScript
+</summary>
+<ul><a href="https://github.com/apalevich/phone_book" target="_blank">Phonebook SPA</a></ul>
+<ul><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canval control</a></ul>
+<ul><a href="https://github.com/apalevich/vanilla-music-player" target="_blank">Music Player</a></ul>
+<ul><i>+ 1 commercial app in customer's repository</i></ul>
+</details>
+
+<details>
+<img align="left" alt="JavaScript" width="26px" src="./img/jquery-plain.svg"  style="padding-right:12px;" />
+<summary>
+jQuery
+</summary>
+<ul><a href="https://github.com/apalevich/tilda_customization" target="_blank">Tilda customization</a></ul>
+<ul><i>+ 3 commercial app in customer's repository</i></ul>
+</details>
+
+<details>
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<summary>
+UI development
+</summary>
+<ul><a href="https://github.com/apalevich/Kun" target="_blank">Login Forms</a></ul>
     <ul><a href="https://github.com/apalevich/hr_landing" target="_blank">Hire landing page</a></ul>
     <ul><i>...and 10+ commercial ones in customer's repository</i></ul>
-  </td>
-</tr>
-</table>
-
-
-
+</details>
 
 [<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />][cssplaylist]
 [][jsplaylist]
@@ -97,63 +96,3 @@ I love working with smart, ambitious and kind people. If that sounds like you an
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/apalevich#gh-dark-mode-only)
 &nbsp;&nbsp;
 <br>
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.69 Released!! | Tips &amp; Tricks 2022 &lpar;Visual Studio Code&rpar;](https://www.youtube.com/watch?v=2ncAmRBCN1w)
-- [Learning to code is HARD - Unless you do this!](https://www.youtube.com/watch?v=VGGWcy6__Fg)
-- [Web3 101: What is an ERC1155 Smart Contract?](https://www.youtube.com/watch?v=q0M21Gk1ZnI)
-- [Web3 101: What is an ERC721/a Smart Contract?](https://www.youtube.com/watch?v=_XAxn0glwAI)
-- [Web3 101: What Is A Blockchain?](https://www.youtube.com/watch?v=145m3Ev4zbo)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://codestackr.com)
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/codeSTACKr/create-10k-nft-collection/issues/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-2. 🎉 Merged PR [#156](https://github.com/codeSTACKr/create-10k-nft-collection/pull/156) in [codeSTACKr/create-10k-nft-collection](https://github.com/codeSTACKr/create-10k-nft-collection)
-3. ❌ Closed PR [#44](https://github.com/codeSTACKr/minter-dapp/pull/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-4. 🗣 Commented on [#44](https://github.com/codeSTACKr/minter-dapp/issues/44) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-5. ❌ Closed PR [#45](https://github.com/codeSTACKr/minter-dapp/pull/45) in [codeSTACKr/minter-dapp](https://github.com/codeSTACKr/minter-dapp)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
