@@ -25,48 +25,58 @@ React.js
     <li><i>+ 3 commercial app in customer's repository</i></li>
 </ul>
 </details>
-
+<br>
 <details>
-<img align="left" alt="TypeScript" width="26px" src="./img/typescript-original.svg" style="padding-right:12px;" />
 <summary>
-TypeScript
+    TypeScript
+    <img align="left" alt="TypeScript" width="26px" src="./img/typescript-original.svg" style="padding-right:12px;display:inline-block" />
 </summary>
 <br>
-<ul><a href="https://github.com/apalevich/arkanoid-ts" target="_blank">Arkanoid</a></ul>
-<ul><i>+ 1 commercial app in customer's repository</i></ul>
+<ul>
+    <li><a href="https://github.com/apalevich/arkanoid-ts" target="_blank">Arkanoid</a></li>
+    <li><i>+ 1 commercial app in customer's repository</i></li>
+</ul>
 </details>
-
+<br>
 <details>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:12px;" />
 <summary>
-JavaScript
+    JavaScript
+    <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:12px;display:inline-block" />
 </summary>
 <br>
-<ul><a href="https://github.com/apalevich/phone_book" target="_blank">Phonebook SPA</a></ul>
-<ul><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canval control</a></ul>
-<ul><a href="https://github.com/apalevich/vanilla-music-player" target="_blank">Music Player</a></ul>
-<ul><i>+ 1 commercial app in customer's repository</i></ul>
+<ul>
+    <li><a href="https://github.com/apalevich/phone_book" target="_blank">Phonebook SPA</a></li>
+    <li><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canval control</a></li>
+    <li><a href="https://github.com/apalevich/vanilla-music-player" target="_blank">Music Player</a></li>
+    <li><i>+ 1 commercial app in customer's repository</i></li>
+</ul>
 </details>
-
+<br>
 <details>
-<img align="left" alt="JavaScript" width="26px" src="./img/jquery-plain.svg"  style="padding-right:12px;" />
 <summary>
-jQuery
+    jQuery
+    <img align="left" alt="JavaScript" width="26px" src="./img/jquery-plain.svg"  style="padding-right:12px;display:inline-block" />
 </summary>
 <br>
-    <ul><a href="https://github.com/apalevich/tilda_customization" target="_blank">Tilda customization</a></ul>
-<ul><i>+ 3 commercial app in customer's repository</i></ul>
+<ul>
+    <li><a href="https://github.com/apalevich/tilda_customization" target="_blank">Tilda customization</a></li>
+    <li><i>+ 3 commercial app in customer's repository</i></li>
+</ul>
 </details>
-
+<br>
 <details>
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <summary>
-UI development
+    UI development
+    <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;display:inline-block" />
 </summary>
-<ul><a href="https://github.com/apalevich/Kun" target="_blank">Login Forms</a></ul>
-<ul><a href="https://github.com/apalevich/hr_landing" target="_blank">Hire landing page</a></ul>
-<ul><i>...and 10+ commercial ones in customer's repository</i></ul>
+<br>
+<ul>
+    <li><a href="https://github.com/apalevich/Kun" target="_blank">Login Forms</a></li>
+    <li><a href="https://github.com/apalevich/hr_landing" target="_blank">Hire landing page</a></li>
+    <li><i>...and 10+ commercial ones in customer's repository</i></li>
+</ul>
 </details>
+<br>
 
 ## Connect with me:
 
@@ -74,6 +84,7 @@ I love working with smart, ambitious and kind people.
 If that sounds like you and you have a project that I can help you with, let's chat!
 <br>
 
+&nbsp;&nbsp;
 [![website](./img/globe-light.svg)](https://apalevich.ru#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://apalevich.ru#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -82,5 +93,8 @@ If that sounds like you and you have a project that I can help you with, let's c
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/apalevich#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/apalevich#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/telegram-light.svg)](https://t.me/apalevichru)
+[![website](./img/telegram-dark.svg)](https://t.me/apalevichru)
 &nbsp;&nbsp;
 <br>
