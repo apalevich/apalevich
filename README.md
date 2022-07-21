@@ -76,7 +76,6 @@ React.js
     <li><i>...and 10+ commercial ones in customer's repository</i></li>
 </ul>
 </details>
-<br>
 
 ## Connect with me:
 
