@@ -93,7 +93,4 @@ If that sounds like you and you have a project that I can help you with, let's c
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/apalevich#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/apalevich#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/telegram-light.svg)](https://t.me/apalevichru)
-[![website](./img/telegram-dark.svg)](https://t.me/apalevichru)
-&nbsp;&nbsp;
 <br>
