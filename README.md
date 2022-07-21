@@ -2,13 +2,12 @@
 
 ## I'm a Frontend Developer skilled in UI/UX
 Started doing IT in my school years as a hobby, I found my passion in launching new applications, services and digital products in mixed teams.
-
-- 🎭 Previously worked as a Marketing and Event Manager in Music Industry
+<!-- - 🎭 Previously worked as a Marketing and Event Manager in Music Industry
 - 📚 Mostly self-taught course lover
 - 🧠 Originally studied Psychology and Teaching
 - ♻️ Got superpower to organize chaos and hold the enthropy
 - 🗺 Failed to move from Russia and living as a digital nomad since beginning of 2021
-- 🗂 Has natural love of structuring, especially lists
+- 🗂 Has natural love of structuring, especially lists -->
 
 ## Languages and Projects:
 
