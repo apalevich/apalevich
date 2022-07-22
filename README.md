@@ -22,7 +22,7 @@ React.js
     <li><a href="https://github.com/apalevich/Rose_Lifetracker" target="_blank">Rose LifeTracker</a></li>
     <li><a href="https://github.com/apalevich/star-db" target="_blank">Star Wars db</a></li>
     <li><a href="https://github.com/apalevich/TodoApp" target="_blank">ToDo app</a></li>
-    <li><i>+ 3 commercial app in customer's repository</i></li>
+    <li><i>+ 3 commercial app in private customer repositories</i></li>
 </ul>
 </details>
 <br>
@@ -48,7 +48,7 @@ React.js
     <li><a href="https://github.com/apalevich/phone_book" target="_blank">Phonebook SPA</a></li>
     <li><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canval control</a></li>
     <li><a href="https://github.com/apalevich/vanilla-music-player" target="_blank">Music Player</a></li>
-    <li><i>+ 1 commercial app in customer's repository</i></li>
+    <li><i>+ 1 commercial app in private customer repositories</i></li>
 </ul>
 </details>
 <br>
@@ -60,7 +60,7 @@ React.js
 <br>
 <ul>
     <li><a href="https://github.com/apalevich/tilda_customization" target="_blank">Tilda customization</a></li>
-    <li><i>+ 3 commercial app in customer's repository</i></li>
+    <li><i>+ 3 commercial app in private customer repositories</i></li>
 </ul>
 </details>
 <br>
@@ -73,7 +73,7 @@ React.js
 <ul>
     <li><a href="https://github.com/apalevich/Kun" target="_blank">Login Forms</a></li>
     <li><a href="https://github.com/apalevich/hr_landing" target="_blank">Hire landing page</a></li>
-    <li><i>...and 10+ commercial ones in customer's repository</i></li>
+    <li><i>...and 10+ commercial ones in private customer repositories</i></li>
 </ul>
 </details>
 
