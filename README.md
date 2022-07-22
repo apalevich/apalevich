@@ -46,7 +46,7 @@ React.js
 <br>
 <ul>
     <li><a href="https://github.com/apalevich/phone_book" target="_blank">Phonebook SPA</a></li>
-    <li><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canval control</a></li>
+    <li><a href="https://github.com/apalevich/Canvas-Control" target="_blank">Canvas API control</a></li>
     <li><a href="https://github.com/apalevich/vanilla-music-player" target="_blank">Music Player</a></li>
     <li><i>+ 1 commercial app in private customer repositories</i></li>
 </ul>
