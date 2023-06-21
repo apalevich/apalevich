@@ -1,13 +1,13 @@
 # Hello, my name is Artem 👋 
 
 ## I'm a Frontend Developer skilled in UI/UX
-Started doing IT in my school years as a hobby, I found my passion in launching new applications, services and digital products in mixed teams 💻
-<!-- - 🎭 Previously worked as a Marketing and Event Manager in Music Industry
+Started doing IT in my school years as a hobby, I found my passion in launching digital products and services as a front-end developer and team-lead 💻
+- 🎭 Previously worked as a Marketing and Event Manager in Music Industry
 - 📚 Mostly self-taught course lover
 - 🧠 Originally studied Psychology and Teaching
 - ♻️ Got superpower to organize chaos and hold the enthropy
-- 🗺 Failed to move from Russia and living as a digital nomad since beginning of 2021
-- 🗂 Has natural love of structuring, especially lists -->
+- 🗺 Lives as a digital nomad since 2021
+- 🗂 Has natural love of structuring, especially lists
 
 ## Languages and Projects:
 
@@ -84,8 +84,8 @@ If that sounds like you and you have a project that I can help you with, let's c
 <br>
 
 &nbsp;&nbsp;
-[![website](./img/globe-light.svg)](https://apalevich.ru#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://apalevich.ru#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://apalevich.tilda.ws#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://apalevich.tilda.ws#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/apalevich#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/apalevich#gh-dark-mode-only)
