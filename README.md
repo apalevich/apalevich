@@ -17,32 +17,32 @@ I believe in collaborating with smart, ambitious, and kind people. If you’re l
 ## Tech Stack:
 
 ### Languages
-<img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
+<img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" style="width: 45px;padding-right:12px;" />
 <br><br><br>
 
 ### Frameworks and Libraries
-<img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Nuxt" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Node Package Manager" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
+<img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="Nuxt" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original-wordmark.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original-wordmark.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style="width: 45px;padding-right:12px;" />
+<img align="left" alt="Node Package Manager" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="width:45px;padding-right:12px;" />
 <br><br><br>
 
 ### UI Tools and Components Libraries
-<img align="left" alt="Vuetify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="width: 60px;padding-right:12px;" />
-<img align="left" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width: 60px;padding-right:12px;" />
+<img align="left" alt="Vuetify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" style="width:45px;padding-right:12px;" />
+<img align="left" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="width:45px;padding-right:12px;" />
+<img align="left" alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" style="width:45px;padding-right:12px;" />
+<img align="left" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="width:45px;padding-right:12px;" />
+<img align="left" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width:45px;padding-right:12px;" />
 <br><br><br>
 
 ### Testing
-<img align="left" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" style="width: 60px;padding-right:12px;" />
+<img align="left" alt="Mocha" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg" style="width:45px;padding-right:12px;" />
 <br><br><br>
 
 ## Connect with me:
