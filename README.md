@@ -1,11 +1,11 @@
 # Expert Frontend Developer for New Digital Ventures
 
 ## About
-I am a versatile Web Developer with a strong aptitude for transforming ideas into market-ready products. I have deep knowledge of fundamental web technologies like JavaScript, HTML, CSS, and the DOM API, as well as expertise in creating responsive and adaptive design to provide the best UI/UX to users. Additionally, I am proficient in advanced tools and frameworks such as React.js, Vue.js, Nuxt, Tailwind CSS, and SASS/SCSS.
+I am a versatile Web Developer with a strong aptitude for transforming ideas into market-ready products. My deep knowledge spans fundamental web technologies such as JavaScript, HTML, CSS, and the DOM API, coupled with expertise in creating responsive and adaptive designs to deliver exceptional UI/UX. Additionally, I am proficient in advanced tools and frameworks like React.js, Vue.js, Nuxt, Tailwind CSS, and SASS/SCSS.
 
-I hold a Bachelor’s degree in Psychology and Teaching, which has enriched my understanding of human behavior and communication — critical skills in developing user-centric applications. Over the years, I am enhancing my technical expertise through professional development courses, including React + Redux and Prompt Engineering for Developers by OpenAI & DeepMind. My professional journey spans roles where I led teams, mentored junior developers, and collaborated on projects for high-profile clients like Apple. I am adept at Agile methodologies, project management, and possess strong problem-solving abilities, making me a versatile and effective team leader or member.
+Holding a Bachelor’s degree in Psychology and Teaching, I have gained valuable insights into human behavior and communication, which are critical in developing user-centric applications. To further hone my technical skills, I have completed professional development courses including React + Redux and Prompt Engineering for Developers by OpenAI & DeepMind. My professional journey includes leading teams, mentoring junior developers, and collaborating on projects for high-profile clients such as Apple. I am adept at Agile methodologies, project management, and possess strong problem-solving abilities, making me a versatile and effective team leader or member.
 
-I believe in collaborating with smart, ambitious, and kind people. If you’re looking for someone to help bring your project to life with precision and creativity, let’s chat!
+I thrive on collaborating with smart, ambitious, and kind people. If you’re looking for someone to bring your project to life with precision and creativity, let’s chat!
 
 ## Specialties:
 - ##### Pixel-Perfect Layouts.
