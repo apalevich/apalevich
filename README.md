@@ -1,6 +1,6 @@
 # Expert Frontend Developer for New Digital Ventures
 
-I launch frontend for difital products and set up hosting efficiently, from serverless frontend tools like Vercel and Netlify to good old VPS with Ubuntu and Nginx. Skilled in responsive design, backend integration, and writing tests. Proficient with React.js, Vue.js, and more. Whether developing fast websites, rich web apps, or smart chatbots, I can help you choose the best solution for your business needs!
+I launch frontend for digital products and set up hosting efficiently, from serverless frontend tools like Vercel and Netlify to good old VPS with Ubuntu and Nginx. Skilled in responsive design, backend integration, and writing tests. Proficient with React.js, Vue.js, and more. Whether developing fast websites, rich web apps, or smart chatbots, I can help you choose the best solution for your business needs!
 
 ## Specialties:
 - ##### Pixel-Perfect Layouts
