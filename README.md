@@ -14,7 +14,7 @@ I launch frontend for digital products and set up hosting efficiently, from serv
 ### Languages
 <img align="left" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="width: 60px;padding-right:12px;" />
 <img align="left" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="width: 60px;padding-right:12px;" />
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg">
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" align="left">
 </picture>
@@ -25,6 +25,10 @@ I launch frontend for digital products and set up hosting efficiently, from serv
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="0">
   <img alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" width="60" align="left">
+</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
+  <img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"a width="60" align="left">
 </picture>
 <br><br><br>
 
@@ -39,22 +43,16 @@ I launch frontend for digital products and set up hosting efficiently, from serv
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="0">
   <img alt="Astro" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original-wordmark.svg"a width="60" align="left">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img alt="Node" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"a width="60" align="left">
-</picture>
-<img align="left" alt="Node Package Manager" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="width:45px;padding-right:12px;" />
+<!-- <img align="left" alt="Node Package Manager" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" style="width:45px;padding-right:12px;" /> -->
 <br><br><br>
 
 ### UI Tools and Components Libraries
-<img align="left" alt="Vuetify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" style="width:45px;padding-right:12px;" />
 <img align="left" alt="Material UI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" style="width:45px;padding-right:12px;" />
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain-wordmark.svg" width="60" align="left">
 </picture>
-<img align="left" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" style="width:45px;padding-right:12px;" />
-<img align="left" alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" style="width:45px;padding-right:12px;" />
+<img align="left" alt="Vuetify" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuetify/vuetify-original.svg" style="width:45px;padding-right:12px;" />
 <br><br><br>
 
 ### Testing
